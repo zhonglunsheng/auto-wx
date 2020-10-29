@@ -1,0 +1,5 @@
+# 公众号配置(必填)
+wx.mp.appId=
+wx.mp.secret=
+wx.mp.token=
+wx.mp.aesKey=
